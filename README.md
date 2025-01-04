@@ -1,2 +1,2 @@
 "# GPT" 
-![Transformmer Architecture](artifacts\image.png)
+![Transformmer Architecture](artifacts/image.png)
