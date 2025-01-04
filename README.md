@@ -1,10 +1,10 @@
 "# GPT" 
 
-#Self Attention
+Self Attention
 
 ![Self Attention](artifacts/selfattention.png)
 
-#Causal Attention
+Causal Attention
 
 ![Causal Attention](artifacts/causalattention.png)
 
@@ -19,5 +19,5 @@ Self attention
 
 
 
-#Transformer Architecture
+Transformer Architecture
 ![Transformmer Architecture](artifacts/transformer.png)
