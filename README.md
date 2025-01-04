@@ -20,6 +20,14 @@ Multi Head Attention with Weight Splits
 
 ![Multi Head Attention with Weight Splits](artifacts/multiheadattention_v2.png)
 
+Layer Normalization
+
+![Layer Normalization](artifacts/layernorm.png)
+
+GELU v/s RELU
+
+![GELU](artifacts/gelu.png)
+
 Transformer Architecture
 
 ![Transformmer Architecture](artifacts/transformer.png)
