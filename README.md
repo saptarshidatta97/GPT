@@ -28,6 +28,10 @@ GELU v/s RELU
 
 ![GELU](artifacts/gelu.png)
 
+Feed Forward Network
+
+![Feed Forward](artifacts/feedforward.png)
+
 Transformer Architecture
 
 ![Transformmer Architecture](artifacts/transformer.png)
