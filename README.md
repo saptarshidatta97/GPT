@@ -1,2 +1,4 @@
 "# GPT" 
-![Transformmer Architecture](artifacts/image.png)
+![Transformmer Architecture](artifacts/transformer.png)
+
+![Self Attention](artifacts/selfattention.png)
